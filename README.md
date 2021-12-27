@@ -1,2 +1,2 @@
 # my-website
-git training demo website
+This is an awful website
